@@ -1,0 +1,6 @@
+* text eol=lf
+*.bat eol=crlf
+*.jar binary
+*.jpg binary
+*.png binary
+*.ttf binary
